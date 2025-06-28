@@ -1,0 +1,12 @@
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\bin\Debug\DesktopClock.exe.config
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\bin\Debug\DesktopClock.exe
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\bin\Debug\DesktopClock.pdb
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.Clock.resources
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.Resources.resources
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.PerPixelAlphaForm.resources
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.csproj.GenerateResource.cache
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.exe
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.pdb
+C:\Users\sarah\source\repos\MouseCursorClock\DesktopClock\obj\x86\Debug\DesktopClock.exe.config
