@@ -10,7 +10,7 @@ The clock doesn't get in the way, it's semi-transparent and it does NOT appear i
 Move your mouse button to the top of your screens and simply right click. The program will instantly close.
 
 
-**ACtion shot**                                   
+**Action shot**                                   
 The mouse cursor is your own, I didn't have a "mouse in the image" screen capturer installed when I did this piccy...
 Nice hand drawn mouse pointer eh?
 
