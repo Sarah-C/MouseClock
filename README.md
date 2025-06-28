@@ -14,6 +14,6 @@ Move your mouse button to the top of your screens and simply right click. The pr
 The mouse cursor is your own, I didn't have a "mouse in the image" screen capturer installed when I did this piccy...
 Nice hand drawn mouse pointer eh?
 
-![image](https://github.com/user-attachments/assets/645d64d0-a7c7-476c-8034-ca0972000545)   ![image](https://github.com/user-attachments/assets/f811d234-3ec6-450e-859a-d58402a6653e)
+![image](https://github.com/user-attachments/assets/645d64d0-a7c7-476c-8034-ca0972000545) ....................... ![image](https://github.com/user-attachments/assets/f811d234-3ec6-450e-859a-d58402a6653e)
 
 
