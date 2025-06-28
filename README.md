@@ -7,7 +7,7 @@ The clock doesn't get in the way, it's semi-transparent and it does NOT appear i
 
 
 **To close the clock**                        
-Move your mouse button to the top of your screens and simply right click. The program will instantly close.
+Move your mouse pointer to the top of your screens and simply right click. The program will instantly close.
 
 
 **Action shot**                                   
