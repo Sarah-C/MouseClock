@@ -17,3 +17,4 @@ Nice hand drawn mouse pointer eh?
 ![image](https://github.com/user-attachments/assets/645d64d0-a7c7-476c-8034-ca0972000545) ....................... ![image](https://github.com/user-attachments/assets/f811d234-3ec6-450e-859a-d58402a6653e)
 
 
+**DesktopClock.exe** is the file you need, everything else is for Visual Studio 2022, so you can tweek and build it yourself.
